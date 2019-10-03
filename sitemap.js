@@ -1,6 +1,6 @@
 // ---------------------------------------------------
 // Name: Sitemap for Blogger
-// Url: https://me.son.pro.vn/p/test.html
+// Url: https://www.son.pro.vn/
 // Source: https://www.son.pro.vn/
 // ---------------------------------------------------
 
